@@ -56,3 +56,8 @@ A scheduling consolidation and validation system was developed based on a standa
 - Structured Tables and Pivot Tables to simplify the visualization and analysis of consolidated information.
 - Control and Validation Formulas to verify dates, exam quantities, and data consistency.
 - Looker Studio for interactive schedule visualization and consultation from computers and mobile devices.
+
+## Related Files
+
+You can download and review the complete project files here:
+- ![Excel Template](source-files/Schedule_Template.xlsx)
