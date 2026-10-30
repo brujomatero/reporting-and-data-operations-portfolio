@@ -29,11 +29,11 @@ Hospital rotation assignments were managed through manually created schedules th
 An Excel-based tool was developed to transform a manual and distributed process into a structured hospital rotation assignment and control system. Using a centralized database of students, hospital departments, capacity limits, and rotation dates, the solution generated schedules ready for distribution and monitoring. The system incorporated controls to validate capacity utilization, prevent incorrect assignments, and ensure that students completed all mandatory rotations required for their training. In addition, the solution was designed for users with basic Excel knowledge, prioritizing a simple, secure, and maintainable data-entry process without risking damage to formulas or critical file structures.
 
 
-![Planilla Datos](Datos.png)
+![Planilla Datos](images/Datos.png)
 **Master Database.**
 
 
-![Planilla Asignaciones](Asignaciones.png)
+![Planilla Asignaciones](images/Asignaciones.png)
 **Assignment Database with Pivot Tables used to validate and monitor rotation schedules.**
 
 ## Results
@@ -45,7 +45,7 @@ An Excel-based tool was developed to transform a manual and distributed process 
 - Eliminated a substantial portion of the rework caused by schedule corrections and feedback cycles.
 
 
-![Cronograma](Cronograma.png)
+![Cronograma](images/Cronograma.png)
 **Automatically generated rotation schedule designed for users with basic Excel knowledge.**
 
 ## Tools
@@ -56,3 +56,8 @@ An Excel-based tool was developed to transform a manual and distributed process 
 - Control Formulas to verify capacities and assignments.
 - Pivot Tables for rotation monitoring and validation.
 - User-Centered Design to facilitate use by personnel without advanced Excel knowledge.
+
+## Related Files
+
+You can download and review the complete project files here:
+- [Excel Template](source-files/servicios.xlsx)
