@@ -41,7 +41,7 @@ Standardized the collection, validation and consolidation of academic scheduling
 
 ---
 
-### [2. Permanency and Desertion Academic Analysis](Permanency%20and%20Desertion%20Academic%20Analysis/REAMDE.md)
+### [2. Permanency and Desertion Academic Analysis](Permanency%20and%20Desertion%20Academic%20Analysis/README.md)
 
 Consolidated historical academic data to analyze student permanency and desertion by cohort, specialization and academic stage.
 
