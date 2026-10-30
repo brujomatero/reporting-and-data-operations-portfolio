@@ -33,7 +33,7 @@ All problem identification, requirements analysis, solution design, validation a
 
 ## Featured Projects
 
-### 1. Institutional Academic Scheduling System
+### [1. Institutional Academic Scheduling System](Institutional%20Academic%20Scheduling%20System/README.md)
 
 Standardized the collection, validation and consolidation of academic scheduling data across multiple departments.
 
@@ -41,7 +41,7 @@ Standardized the collection, validation and consolidation of academic scheduling
 
 ---
 
-### 2. Permanrncy and Desertion Academic Analysis
+### [2. Permanrncy and Desertion Academic Analysis](Permanrncy%20and%20Desertion%20Academic%20Analysis/REAMDE.md)
 
 Consolidated historical academic data to analyze student permanency and desertion by cohort, specialization and academic stage.
 
@@ -49,7 +49,7 @@ Consolidated historical academic data to analyze student permanency and desertio
 
 ---
 
-### 3. Academic Performance Analytics
+### [3. Academic Performance Analytics](Academic%20Performance%20Analytics/README.md)
 
 Developed an interactive reporting solution to monitor grades, performance indicators and examination schedules.
 
@@ -57,7 +57,7 @@ Developed an interactive reporting solution to monitor grades, performance indic
 
 ---
 
-### 4. Hospital Rotation Assignment, Management, and Control
+### 4. [Hospital Rotation Assignment, Management, and Control](Hospital%20Rotation%20Assignment,%20Management,%20and%20Control/README.md)
 
 Designed an Excel-based solution to manage student rotations, control assignments and automate schedule generation.
 
