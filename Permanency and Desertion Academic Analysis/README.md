@@ -1,4 +1,4 @@
-<h1 align="center">Academic Retention and Dropout Analysis</h1>
+<h1 align="center">Permanency and Desertion Academic Analysis</h1>
 <p align="center">
   <strong>Technologies:</strong> Excel, Power BI, Power Query, DAX
 </p>
