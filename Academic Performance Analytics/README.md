@@ -26,11 +26,11 @@ As a result, obtaining relevant information often depended on manual searches ac
 - Provide quick-access information for management meetings and academic monitoring.
 
 
-![Dashboard 3](Cronograma.jpg)
+![Dashboard 3](images/Cronograma.jpg)
 **This dashboard includes interactive filters and allows users to navigate directly to the student performance view for a specific exam.**
 
 
-![Dashboard 4](<Listado Notas.jpg>)
+![Dashboard 4](images\Listado_Notas.jpg)
 **This view displays detailed student grades and includes interactive filters for quick analysis.**
 
 
@@ -41,11 +41,12 @@ The solution enabled academic performance analysis at different levels of detail
 In addition, operational views were incorporated, allowing access to both the complete exam schedule and the detailed list of candidates associated with each subject, centralizing information that had previously been distributed across multiple sources.
 
 
-![Dashboard 1](<% de aprobación.jpg>)
+![Dashboard 1](images/porc_de_aprobación.jpg)
+
 **Displays approval, failure, and promotion rates across all final exams.**
 
 
-![Dashboard 2](<Promedio de nota.jpg>)
+![Dashboard 2](images/Promedio_nota.jpg)
 **Displays the average grade across all final exams.**
 
 ## Results
