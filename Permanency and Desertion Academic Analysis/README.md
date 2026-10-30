@@ -35,15 +35,15 @@ As a result, it was difficult to accurately answer questions related to student 
 A process of cleaning, transforming, and consolidating historical information from different academic cohorts was carried out. Due to differences in formats, structures, and data-entry criteria, it was necessary to standardize the data before analyzing it as a unified dataset. Based on the consolidated information, an analytical model was built to measure student retention and dropout from different perspectives, including cohorts, specializations, and stages of the educational process. Finally, an interactive dashboard was developed to visualize institutional indicators, compare historical results, and facilitate access to information for authorities and management departments.
 
 
-![Dashboard 1](<Por Cohorte y Año.jpg>)
+![Dashboard 1](images/cohorte.año.jpg)
 **This Dashboard represents the Desertion and Retention from every cohort per Year**
 
 
-![Dashboard 2](<De postulante a Aspirante.jpg>)
+![Dashboard 2](images/postulante.aspirante.jpg)
 **This Dashboard represents the Desertion and Retention from entrants, candidates and students when they start the first year of the degree**
 
 
-![Dashboard 3](<Por Tecnicatura.jpg>)
+![Dashboard 3](images/Tecnicatura.jpg)
 **This Dashboards has the Desertion and Retention from every year of the Carreer and their specialities**
 
 
