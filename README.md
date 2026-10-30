@@ -33,7 +33,7 @@ All problem identification, requirements analysis, solution design, validation a
 
 ## Featured Projects
 
-### 1. Institutional Exam Scheduling System
+### 1. Institutional Academic Scheduling System
 
 Standardized the collection, validation and consolidation of academic scheduling data across multiple departments.
 
@@ -41,9 +41,9 @@ Standardized the collection, validation and consolidation of academic scheduling
 
 ---
 
-### 2. Academic Attrition Analysis
+### 2. Permanrncy and Desertion Academic Analysis
 
-Consolidated historical academic data to analyze student attrition by cohort, specialization and academic stage.
+Consolidated historical academic data to analyze student permanency and desertion by cohort, specialization and academic stage.
 
 **Technologies:** Excel, Power Query, Power BI
 
@@ -57,7 +57,7 @@ Developed an interactive reporting solution to monitor grades, performance indic
 
 ---
 
-### 4. Hospital Rotation Management System
+### 4. Hospital Rotation Assignment, Management, and Control
 
 Designed an Excel-based solution to manage student rotations, control assignments and automate schedule generation.
 
@@ -71,10 +71,10 @@ Designed an Excel-based solution to manage student rotations, control assignment
 ```text
 reporting-and-data-operations-portfolio
 │
-├── 01-Institutional-Exam-Scheduling-System
-├── 02-Academic-Attrition-Analysis
-├── 03-Academic-Performance-Analytics
-└── 04-Hospital-Rotation-Management-System
+├── 01-Institutional Academic Scheduling System
+├── 02-Permanrncy and Desertion Academic Analysis
+├── 03-Academic Performance Analytics
+└── 04-Hospital Rotation Assignment, Management, and Control
 ```
 
 
